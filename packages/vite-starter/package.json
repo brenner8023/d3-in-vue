@@ -1,0 +1,29 @@
+{
+  "name": "vite-starter",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^7.5.3",
+    "axios": "^0.24.0",
+    "lodash-es": "^4.17.21",
+    "pinia": "^2.0.9",
+    "vue": "^3.2.25",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "eslint": "^8.6.0",
+    "husky": "^7.0.4",
+    "less": "^4.1.2",
+    "typescript": "^4.4.4",
+    "unplugin-vue-components": "^0.17.11",
+    "vite": "^2.7.2",
+    "vite-plugin-mock": "^2.9.6",
+    "vue-tsc": "^0.29.8"
+  }
+}
