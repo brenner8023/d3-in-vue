@@ -6,33 +6,90 @@
       {
         "id": "9de495143302dde2",
         "type": "tabs",
+        "dimension": 66.94510739856801,
         "children": [
           {
-            "id": "9f2a997ed37b6a06",
+            "id": "2480b9b2ae840bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微前端/iframe.md",
+                "file": "八股文/剑指offer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "acf3cadde8df811b"
+          },
+          {
+            "id": "8c001e484527a0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股文/css.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84d4a45c1d4f0fc0",
+            "id": "eab526a014844f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端管理/Code Review.md",
+                "file": "前端管理/项目流程/复盘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513f9f5677f932cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端管理/新人培养.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ea0637e0924422b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端管理/项目流程/日报早会制度.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "230ff38ba7f404ce",
+        "type": "tabs",
+        "dimension": 33.05489260143198,
+        "children": [
+          {
+            "id": "36328a760704be8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八股文/剑指offer.md"
+              }
+            },
+            "group": "acf3cadde8df811b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端管理/Code Review.md",
+                "file": "前端管理/项目流程/日报早会制度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端管理/Code Review.md",
+                "file": "前端管理/项目流程/日报早会制度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端管理/Code Review.md"
+                "file": "前端管理/项目流程/日报早会制度.md"
               }
             }
           }
@@ -159,8 +216,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84d4a45c1d4f0fc0",
+  "active": "6114f7490140adc6",
   "lastOpenFiles": [
-    "微前端/iframe.md"
+    "前端管理/新人培养.md",
+    "前端管理/项目流程/复盘.md",
+    "前端管理/项目流程/Code Review.md",
+    "八股文/css.md",
+    "八股文/剑指offer.md",
+    "八股文/设计模式/观察者模式.md",
+    "技术方向/微前端/iframe.md"
   ]
 }
